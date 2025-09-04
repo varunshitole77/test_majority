@@ -1,0 +1,42 @@
+CLASS 1: 00000000
+  Size: 1, Depth: 1
+---
+CLASS 2: 00011000
+  Size: 1, Depth: 1
+---
+CLASS 3: 00111100
+  Size: 1, Depth: 1
+---
+CLASS 4: 01100000
+  Size: 1, Depth: 1
+---
+CLASS 5: 01101000
+  Size: 1, Depth: 1
+---
+CLASS 6: 01111000
+  Size: 1, Depth: 1
+---
+CLASS 7: 10000000
+  Size: 1, Depth: 1
+---
+CLASS 8: 10010110
+  Size: 1, Depth: 1
+---
+CLASS 9: 10011000
+  Size: 1, Depth: 1
+---
+CLASS 10: 11000000
+  Size: 1, Depth: 1
+---
+CLASS 11: 11011000
+  Size: 1, Depth: 1
+---
+CLASS 12: 11100000
+  Size: 1, Depth: 1
+---
+CLASS 13: 11101000
+  Size: 1, Depth: 1
+---
+CLASS 14: 11110000
+  Size: 1, Depth: 1
+---
